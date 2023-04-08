@@ -47,4 +47,4 @@ You can invite the bot to your server by clicking [here](https://discord.com/api
 
 ## License
 
-Licensed under the [MIT license](https://github.com/biscxit/wumpus-gpt/blob/main/LICENSE).
+Licensed under the [MIT license](https://github.com/sureslol/ChatGPT-Discord-Bot/blob/main/LICENSE).
